@@ -17,5 +17,6 @@
     "skipLibCheck": true, /* Skip type checking all .d.ts files. */
     "strictNullChecks": true, /* When type checking, take into account 'null' and 'undefined'. */
     "target": "es2019", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "sourceMap": true,
   }
 }
