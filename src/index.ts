@@ -1,6 +1,6 @@
 import { concatenation } from './concatenation';
 
-const button = document.querySelector('button')!;
+const button = document.getElementById('button')!;
 const input = document.querySelector('input')!;
 
 if (button && input) {
